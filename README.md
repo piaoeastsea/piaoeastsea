@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I am Richard (aka likewagon)  👋
+
+- 🔭 I’m currently working on Web App ( Next.js / TailwindCSS | Material-ui / MultiTenant / Cloud API ... )
+- 🌱 I’m currently learning Flow-blockchain, NFT marketplace, DApp...
+- 👯 I’m looking to collaborate on React Frontend, Next.js Full-stack, API Development, SAAS platform development...
+
+
 
 <!--
 **likewagon/likewagon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
