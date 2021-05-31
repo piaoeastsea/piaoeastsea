@@ -1,4 +1,4 @@
-### Hi, I am Richard (aka likewagon)  👋
+### Welcome to me  👋
 
 - 🔭 I’m currently working on Web App ( Next.js / TailwindCSS | Material-ui / MultiTenant / Cloud API ... )
 - 🌱 I’m currently learning Flow-blockchain, NFT marketplace, DApp...
