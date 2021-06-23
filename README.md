@@ -1,4 +1,4 @@
-### Hi, I'm James Li (aka likewagon)  👋
+### Hi, Here is a good React developer (aka likewagon)  👋
 
 - 🔭 I’m currently working on Web App ( Next.js / TailwindCSS | Material-ui / MultiTenant / Cloud API ... )
 - 🌱 I’m currently learning Flow-blockchain, NFT marketplace, DApp...
