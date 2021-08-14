@@ -1,9 +1,11 @@
-### Welcome, Here is a good React developer 👋
+### Welcome, Here is a good Full-stack Engineer 👋
 
-- 🔭 I’m currently working on Web App ( Next.js / TailwindCSS | Material-ui / MultiTenant / Cloud API ... )
-- 🌱 I’m currently learning Flow-blockchain, Solidity and Web3, NFT marketplace, DApp...
-- 👯 I’m looking to collaborate on React Frontend, Full-stack Next.js, SAAS development...
+Web & Mobile App Developer using ReactJS, React Native.
+Modern Architect being oriented cutting-edge techniques over the full-stack area.
 
+- 🔭 I’m currently working on Web App ( Next.js / TailwindCSS | Material-ui / MultiTenant / Saas... )
+- 🌱 I’m currently learning blockchain based DeFi, NFT, Solidity, Web3...
+- 👯 I’m looking for job opportunities on React, Next.js, React Native, NodeJS, TypeScript, DApp... 
 
 
 <!--
