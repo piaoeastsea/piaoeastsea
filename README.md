@@ -1,9 +1,9 @@
-### Welcome, Here is a good Full-stack Engineer 👋
+### Welcome, Here is a talented JS/TS Full-stack Engineer 👋
 
 - Web & Mobile App Developer using ReactJS, React Native.
 - Modern Architect being oriented cutting-edge techniques over the full-stack area.
 
-- 🔭 I’m currently working on Web App ( Next.js / TailwindCSS | Material-ui / MultiTenant / Saas... )
+- 🔭 I’m currently working on Web App ( Next.js / Chakra UI | TailwindCSS | Material-ui / MultiTenant / Saas... )
 - 🌱 I’m currently learning blockchain based DeFi, NFT, Solidity, Web3...
 - 👯 I’m looking for job opportunities on React, Next.js, React Native, NodeJS, TypeScript, DApp... 
 
