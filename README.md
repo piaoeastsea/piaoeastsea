@@ -1,10 +1,10 @@
-### Welcome, Here is a talented JS/TS Full-stack Engineer 👋
+### Welcome, Here is a talented JavaScript/TypeScript Full-stack Engineer 👋
 
-- Web Application (Hybrid Mobile App Also) Developer using ReactJS, Node/Express...
+- Web Application (Hybrid Mobile App Also) Developer using TypeScript, GraphQL, MERN stack...
 - Modern Architect being oriented cutting-edge techniques over the full-stack area.
 
-- 🔭 I’m currently working on Web App ( Next.js / Chakra UI | TailwindCSS | Material-ui / MERN / GraphQL... )
-- 👯 I’m looking for job opportunities on React, Next.js, React Native, NodeJS, TypeScript, GraphQL, DApp... 
+- 🔭 I’m currently joined in Airbnb liked booking Application development team.
+- 👯 I’m looking for the new job opportunities on React, React Native, Next.js, Chakra UI, TailwindCSS... 
 
 
 <!--
