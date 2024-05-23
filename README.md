@@ -4,8 +4,8 @@
 - Modern Architect being oriented cutting-edge techniques over the Full-stack area.
 - Vector Embedding and Semantic Search AI using Weaviate & HuggingFace...
 
-- 🔭 I’m currently joined in Airbnb liked booking Application development team.
-- 👯 I’m looking for the new job opportunities on React, React Native, Next.js, Chakra UI, TailwindCSS... 
+- 🔭 I’m currently working in Airbnb liked booking Application development team.
+- 👯 I’m learning AI/ML theory and methodologies to integrate them in current application to enhance seamless search capability and personalize user intent. 
 
 
 <!--
