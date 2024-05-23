@@ -1,4 +1,4 @@
-### Here is a talented JavaScript/TypeScript Full-stack Engineer with AI 👋
+### Here is a talented JavaScript & TypeScript Full-stack Engineer with AI 👋
 
 - Web & Hybrid Application Developer using MERN stack, GraphQL...
 - Modern Architect being oriented cutting-edge techniques over the Full-stack area.
