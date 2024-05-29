@@ -2,9 +2,9 @@
 
 - Web & Hybrid Application Developer using MERN stack, GraphQL...
 - Modern Architect being oriented cutting-edge techniques over the Full-stack area.
-- Vector Embedding and Semantic Search AI using Weaviate & HuggingFace...
+- Vector Embedding and Semantic Search using Weaviate, OpenAI or HuggingFace...
 
-- 🔭 I’m currently working in Airbnb liked booking Application development team.
+- 🔭 I’m currently working in Airbnb-like rental site development team, cdmbase/resortifi.
 - 👯 I’m learning AI/ML theory and methodologies to integrate them in current application to enhance seamless search capability and personalize user intent. 
 
 
