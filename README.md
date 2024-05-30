@@ -4,8 +4,8 @@
 - Modern Architect being oriented cutting-edge techniques over the Full-stack area.
 - Vector Embedding and Semantic Search using Weaviate, OpenAI or HuggingFace...
 
-- 🔭 I’m currently working in Airbnb-like rental site development team, [CDMBase/resortifi](https://resortifi.com/)
-- 👯 I’m learning AI/ML theory and methodologies to integrate them in current application to enhance seamless search capability and personalize user intent. 
+- 🔭 I’m currently working in Airbnb-like rental site [resortifi](https://resortifi.com/) building team.
+- 👯 I’m learning how to integrate AI (gpt, NLP...) into current application to enhance seamless search capability and personalize user intent. 
 
 
 <!--
