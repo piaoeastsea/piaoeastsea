@@ -5,7 +5,7 @@
 - Vector Embedding and Semantic Search using Weaviate, OpenAI or HuggingFace...
 
 - 🔭 I’m currently working in Airbnb-like rental application [resortifi](https://resortifi.com/) building team.
-- 👯 I’m learning how to integrate AI (gpt, NLP...) into current application to enhance seamless search capability and personalize user intent. 
+- 👯 I’m trying to integrate AI (gpt, NLP...) into current project to enhance seamless search capability and personalize user experience. 
 
 
 <!--
