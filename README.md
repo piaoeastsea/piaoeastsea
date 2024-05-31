@@ -7,12 +7,12 @@
 - 🔭 I’m currently working in Airbnb-like rental application [resortifi](https://resortifi.com/) building team.
 - 👯 I’m trying to integrate AI (gpt, NLP...) into current project to enhance seamless search capability and personalize user experience.
 
+<h3 align="center">Favorite Tech</h3>
 <div align="center">
-<h3 align="left">Favorite Tech</h3>
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <a href="#">
+      <a href="https://nodejs.org/en">
         <img src="./img/nodejs.svg" width="48" height="48" alt="NodeJS" />
       </a>
       <br>NodeJS
