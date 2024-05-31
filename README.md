@@ -101,7 +101,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#" >
-        <img src="./img/inversify.svg" width="48" height="48" alt="InversifyJS" />
+        <img src="./img/inversify.png" width="48" height="48" alt="InversifyJS" />
       </a>
       <br>Inversify
     </td>        
