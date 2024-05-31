@@ -81,7 +81,7 @@
     </td>    
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/chakra-ui.svg" width="48" height="48" alt="ChakraUI" />
+        <img src="./img/chakra-ui.png" width="48" height="48" alt="ChakraUI" />
       </a>
       <br>ChakraUI
     </td>
