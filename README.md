@@ -5,86 +5,135 @@
 - Vector Embedding and Semantic Search using Weaviate, OpenAI or HuggingFace...
 
 - 🔭 I’m currently working in Airbnb-like rental application [resortifi](https://resortifi.com/) building team.
-- 👯 I’m trying to integrate AI (gpt, NLP...) into current project to enhance seamless search capability and personalize user experience. 
+- 👯 I’m trying to integrate AI (gpt, NLP...) into current project to enhance seamless search capability and personalize user experience.
 
-<h2 align="left" id="finma">Favorite Tech</h2>
+<h2 align="left">Favorite Tech</h2>
 <div align="center">
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <a href="#finma">
-        <img src="./img/mongodb-icon-1.svg" width="48" height="48" alt="MongoDB" />
+      <a href="#">
+        <img src="./img/nodejs.svg" width="48" height="48" alt="NodeJS" />
+      </a>
+      <br>NodeJS
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/mongodb.svg" width="48" height="48" alt="MongoDB" />
       </a>
       <br>MongoDB
     </td>
     <td align="center" width="96">
-      <a href="#finma">
-        <img src="./img/expressjs.png" width="48" height="48" alt="ExpressJS" />
+      <a href="#">
+        <img src="./img/expressjs.svg" width="48" height="48" alt="ExpressJS" />
       </a>
       <br>ExpressJS
     </td>
     <td align="center" width="96">
-      <a href="#finma" >
-        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
+      <a href="#" >
+        <img src="./img/react.svg" width="48" height="48" alt="React" />
       </a>
       <br>React
     </td>
     <td align="center" width="96">
-      <a href="#finma">
-        <img src="./img/nodejs-icon.svg" width="48" height="48" alt="NodeJS" />
+      <a href="#" >
+        <img src="./img/redux.svg" width="48" height="48" alt="Redux" />
       </a>
-      <br>NodeJS
+      <br>Redux
     </td>
-    <td align="center"  width="96">
-      <a href="#finma">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="Typescript" />
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/remix.svg" width="48" height="48" alt="Remix" />
       </a>
-      <br>Typescript
+      <br>Remix
     </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/nextjs.svg" width="48" height="48" alt="NextJS" />
+      </a>
+      <br>NextJS
+    </td>    
+  </tr>
+  <tr>
     <td align="center"  width="96">
-      <a href="#finma">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="Javascript" />
+      <a href="#">
+        <img src="./img/javascript.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>Javascript
     </td>
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="./img/typescript.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>Typescript
+    </td>    
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="./img/python.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="./img/graphql.svg" width="48" height="48" alt="GraphQL" />
+      </a>
+      <br>GraphQL
+    </td>    
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/lerna.svg" width="48" height="48" alt="LernaJS" />
+      </a>
+      <br>Lerna
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="./img/moleculer.svg" width="48" height="48" alt="MoleculerJS" />
+      </a>
+      <br>Moleculer
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="./img/inversify.svg" width="48" height="48" alt="InversifyJS" />
+      </a>
+      <br>Inversify
+    </td>        
   </tr>
-  
-  <tr>
+    <tr>
     <td align="center"  width="96">
-      <a href="#finma">
-        <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
+      <a href="#">
+        <img src="./img/ajv.svg" width="48" height="48" alt="AJV" />
       </a>
-      <br>MySQL
+      <br>AJV
     </td>
     <td align="center"  width="96">
-      <a href="#finma">
-        <img src="./img/laravel-2.svg" width="48" height="48" alt="MySQL" />
+      <a href="#">
+        <img src="./img/state-machine.svg" width="48" height="48" alt="State Machine" />
       </a>
-      <br>Laravel
+      <br>StateMachine
     </td>
     <td align="center"  width="96">
-      <a href="#finma">
-        <img src="./img/tailwind-css-2.svg" width="48" height="48" alt="TailwindCSS" />
+      <a href="#">
+        <img src="./img/json-engine.svg" width="48" height="48" alt="JsonEngine" />
       </a>
-      <br>Tailwindcss
+      <br>JsonEngine
     </td>
     <td align="center"  width="96">
-      <a href="#finma">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Boostrap" />
+      <a href="#">
+        <img src="./img/rrule.svg" width="48" height="48" alt="RRule" />
       </a>
-      <br>Boostrap
+      <br>RRule
     </td>
     <td align="center"  width="96">
-      <a href="#finma">
-        <img src="./img/php-1.svg" width="48" height="48" alt="PHP" />
+      <a href="#">
+        <img src="./img/weaviate.svg" width="48" height="48" alt="Weaviate" />
       </a>
-      <br>PHP
+      <br>Weaviate
     </td>
     <td align="center"  width="96">
-      <a href="#finma">
-        <img src="./img/nextjs.png" width="48" height="48" alt="NextJS" />
+      <a href="#">
+        <img src="./img/gen-ai.svg" width="48" height="48" alt="GenAI" />
       </a>
-      <br>NextJS
+      <br>GenAI
     </td>
   </tr>
 </table>
