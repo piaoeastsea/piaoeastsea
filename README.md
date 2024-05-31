@@ -7,7 +7,7 @@
 - 🔭 I’m currently working in Airbnb-like rental application [resortifi](https://resortifi.com/) building team.
 - 👯 I’m trying to integrate AI (gpt, NLP...) into current project to enhance seamless search capability and personalize user experience.
 
-<h2 align="left">Favorite Tech</h2>
+<h4 align="left">Favorite Tech</h4>
 <div align="center">
 <table align="center">
   <tr>
