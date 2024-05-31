@@ -81,6 +81,12 @@
     </td>    
     <td align="center" width="96">
       <a href="#">
+        <img src="./img/chakra-ui.svg" width="48" height="48" alt="ChakraUI" />
+      </a>
+      <br>ChakraUI
+    </td>
+    <td align="center" width="96">
+      <a href="#">
         <img src="./img/lerna.svg" width="48" height="48" alt="LernaJS" />
       </a>
       <br>Lerna
@@ -90,15 +96,15 @@
         <img src="./img/moleculer.svg" width="48" height="48" alt="MoleculerJS" />
       </a>
       <br>Moleculer
-    </td>
+    </td>    
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="#" >
         <img src="./img/inversify.svg" width="48" height="48" alt="InversifyJS" />
       </a>
       <br>Inversify
     </td>        
-  </tr>
-    <tr>
     <td align="center"  width="96">
       <a href="#">
         <img src="./img/ajv.svg" width="48" height="48" alt="AJV" />
