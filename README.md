@@ -68,17 +68,17 @@
       <br>Typescript
     </td>    
     <td align="center" width="96">
-      <a href="https://www.python.org/">
-        <img src="./img/python.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
       <a href="https://graphql.org/">
         <img src="./img/graphql.svg" width="48" height="48" alt="GraphQL" />
       </a>
       <br>GraphQL
     </td>    
+    <td align="center" width="96">
+      <a href="https://tailwindcss.com/">
+        <img src="./img/tailwndcss.svg" width="48" height="48" alt="TailwndCSS" />
+      </a>
+      <br>TailwndCSS
+    </td>
     <td align="center" width="96">
       <a href="https://v2.chakra-ui.com/">
         <img src="./img/chakra-ui.png" width="48" height="48" alt="ChakraUI" />
