@@ -75,9 +75,9 @@
     </td>    
     <td align="center" width="96">
       <a href="https://tailwindcss.com/">
-        <img src="./img/tailwndcss.svg" width="48" height="48" alt="TailwndCSS" />
+        <img src="./img/tailwindcss.svg" width="48" height="48" alt="TailwindCSS" />
       </a>
-      <br>TailwndCSS
+      <br>TailwindCSS
     </td>
     <td align="center" width="96">
       <a href="https://v2.chakra-ui.com/">
