@@ -6,7 +6,7 @@
 - Custom Design `Tidio` Chatbot.
 - Contribute and Customization of AI based Open Sources like `memfree`, `typebot`
 
-- 🔭 I’m currently working in [cdmbase](https://github.com/cdmbase) team which builds Airbnb-like rental application [resortifi](https://resortifi.com/)
+- 🔭 I’m currently working in [cdmbase](https://github.com/cdmbase) team which is building Airbnb-like rental application [resortifi](https://resortifi.com/)
 - 👯 I’m integrating AI (gpt, NLP...) to the existed application to enhance seamless search capability and personalize user experience.
 
 <h3 align="center">Favorite Tech</h3>
