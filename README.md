@@ -1,9 +1,9 @@
 ### Here is a talented JavaScript & TypeScript Full-stack Engineer with AI 👋
 
 - Web & Hybrid Application Developer using MERN stack, GraphQL, Remix...
-- Modern Architect using cutting-edge techniques over Full-stack range.
+- Modern Architecture oriented development and maintainability using cutting-edge technologies over Full-stack range.
 - Experience of integrating Hybrid Search Engine and Vector Embedding, Vector Database, OpenAI...
-- Custom Design Chatbot (Tidio)
+- Custom Design `Tidio` Chatbot.
 - Contribute and Customization of AI based Open Sources like `memfree`, `typebot`
 
 - 🔭 I’m currently working in [cdmbase](https://github.com/cdmbase) team which builds Airbnb-like rental application [resortifi](https://resortifi.com/)
