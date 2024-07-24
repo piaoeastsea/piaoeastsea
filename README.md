@@ -1,11 +1,13 @@
 ### Here is a talented JavaScript & TypeScript Full-stack Engineer with AI 👋
 
 - Web & Hybrid Application Developer using MERN stack, GraphQL, Remix...
-- Modern Architect being oriented cutting-edge techniques over the Full-stack area.
-- Vector Embedding and Semantic, Hybrid Search using OpenAI, Memfree...
+- Modern Architect using cutting-edge techniques over Full-stack range.
+- Experience of integrating Hybrid Search Engine and Vector Embedding, Vector Database, OpenAI...
+- Custom Design Chatbot (Tidio)
+- Contribute and Customization of AI based Open Sources like `memfree`, `typebot`
 
 - 🔭 I’m currently working in [cdmbase](https://github.com/cdmbase) team which builds Airbnb-like rental application [resortifi](https://resortifi.com/)
-- 👯 I’m trying to integrate AI (gpt, NLP...) into current project to enhance seamless search capability and personalize user experience.
+- 👯 I’m integrating AI (gpt, NLP...) to the existed application to enhance seamless search capability and personalize user experience.
 
 <h3 align="center">Favorite Tech</h3>
 <div align="center">
