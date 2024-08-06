@@ -58,17 +58,17 @@
   </tr>
   <tr>
     <td align="center" width="96">
-      <a href="https://remix.run/">
-        <img src="./img/remix.svg" width="48" height="48" alt="Remix" />
-      </a>
-      <br>Remix
-    </td>
-    <td align="center" width="96">
       <a href="https://nextjs.org/">
         <img src="./img/nextjs.svg" width="48" height="48" alt="NextJS" />
       </a>
       <br>NextJS
     </td>  
+    <td align="center" width="96">
+      <a href="https://remix.run/">
+        <img src="./img/remix.svg" width="48" height="48" alt="Remix" />
+      </a>
+      <br>Remix
+    </td>
     <td align="center" width="96">
       <a href="https://graphql.org/">
         <img src="./img/graphql.svg" width="48" height="48" alt="GraphQL" />
