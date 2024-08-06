@@ -88,6 +88,20 @@
       <br>ChakraUI
     </td>
     <td align="center" width="96">
+      <a href="https://vitejs.dev/">
+        <img src="./img/vite.svg" width="48" height="48" alt="ViteJS" />
+      </a>
+      <br>Vite
+    </td>
+    <td align="center" width="96">
+      <a href="https://jestjs.io/">
+        <img src="./img/jest.png" width="48" height="48" alt="Jest" />
+      </a>
+      <br>Jest
+    </td>    
+  </tr>
+  <tr>
+    <td align="center" width="96">
       <a href="https://lerna.js.org/">
         <img src="./img/lerna.svg" width="48" height="48" alt="LernaJS" />
       </a>
@@ -99,8 +113,6 @@
       </a>
       <br>Moleculer
     </td>    
-  </tr>
-  <tr>
     <td align="center" width="96">
       <a href="https://github.com/inversify/InversifyJS">
         <img src="./img/inversify.png" width="48" height="48" alt="InversifyJS" />
@@ -130,18 +142,38 @@
         <img src="./img/rrule.svg" width="48" height="48" alt="RRule" />
       </a>
       <br>RRule
+    </td>    
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.mongodb.com/products/platform/atlas-vector-search">
+        <img src="./img/vector-search.png" width="48" height="48" alt="Vector Search" />
+      </a>
+      <br>Vector Search
+    </td>        
+    <td align="center" width="96">
+      <a href="https://github.com/axa-group/nlp.js">
+        <img src="./img/nlp.png" width="48" height="48" alt="NLP" />
+      </a>
+      <br>NLP
     </td>
     <td align="center" width="96">
-      <a href="https://weaviate.io/">
-        <img src="./img/weaviate.svg" width="48" height="48" alt="Weaviate" />
+      <a href="https://botonic.io/">
+        <img src="./img/botonic.png" width="48" height="48" alt="Botonic" />
       </a>
-      <br>Weaviate
+      <br>Botonic
     </td>
     <td align="center" width="96">
-      <a href="https://ai.google/discover/generativeai/">
-        <img src="./img/gen-ai.svg" width="48" height="48" alt="GenAI" />
+      <a href="https://openai.com/">
+        <img src="./img/openai.png" width="48" height="48" alt="OpenAI" />
       </a>
-      <br>GenAI
+      <br>OpenAI
+    </td>
+    <td align="center" width="96">
+    </td>
+    <td align="center" width="96">
+    </td>
+    <td align="center" width="96">
     </td>
   </tr>
 </table>
