@@ -14,6 +14,18 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+        <img src="./img/javascript.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.typescriptlang.org/">
+        <img src="./img/typescript.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>Typescript
+    </td> 
+    <td align="center" width="96">
       <a href="https://nodejs.org/en">
         <img src="./img/nodejs.svg" width="48" height="48" alt="NodeJS" />
       </a>
@@ -42,7 +54,9 @@
         <img src="./img/redux.svg" width="48" height="48" alt="Redux" />
       </a>
       <br>Redux
-    </td>
+    </td>      
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="https://remix.run/">
         <img src="./img/remix.svg" width="48" height="48" alt="Remix" />
@@ -54,21 +68,7 @@
         <img src="./img/nextjs.svg" width="48" height="48" alt="NextJS" />
       </a>
       <br>NextJS
-    </td>    
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img src="./img/javascript.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.typescriptlang.org/">
-        <img src="./img/typescript.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>Typescript
-    </td>    
+    </td>  
     <td align="center" width="96">
       <a href="https://graphql.org/">
         <img src="./img/graphql.svg" width="48" height="48" alt="GraphQL" />
