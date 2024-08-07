@@ -158,10 +158,10 @@
       <br>NLP
     </td>
     <td align="center" width="96">
-      <a href="https://botonic.io/">
-        <img src="./img/botonic.png" width="48" height="48" alt="Botonic" />
+      <a href="https://github.com/FredrikOseberg/react-chatbot-kit">
+        <img src="./img/chatbot.png" width="48" height="48" alt="Chatbot" />
       </a>
-      <br>Botonic
+      <br>Chatbot
     </td>
     <td align="center" width="96">
       <a href="https://openai.com/">
