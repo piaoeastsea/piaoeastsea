@@ -1,9 +1,9 @@
-### Here is a talented JavaScript & TypeScript Full-stack Engineer with AI 👋
+### Here is a talented Full-stack Engineer with AI & OpenSource contribution 👋
 
 - Web & Hybrid Application Developer using MERN stack, GraphQL...
-- Modern Architecture oriented development and maintainability using cutting-edge technologies over Full-stack range.
+- Modern Architecture Based development and maintainability using cutting-edge technologies over Full-stack range.
 - Experience of integrating Hybrid Search Engine and Vector Embedding, Vector Database, OpenAI...
-- Contribute and Customization of AI based Open Sources like `cody`, `memfree`, `typebot`
+- Contribute and Customization of AI Based Open Sources like `cody`, `memfree`, `typebot`
 - 🔭 I’m currently working in [cdmbase](https://github.com/cdmbase) team which is building Airbnb-like rental application [resortifi](https://resortifi.com/)
 - 👯 I’m integrating AI (gpt, NLP...) to the applications to enhance semantic search capability and personalize user experience.
 
