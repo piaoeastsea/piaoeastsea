@@ -1,12 +1,11 @@
 ### Full-stack Engineer with AI & OpenSource Contribute 👋
 
 - Web & Hybrid Application Developer using MERN stack, GraphQL...
-- Modern Architecture Based development and maintainability using cutting-edge technologies over Full-stack range.
+- Modern Architecture Based development and maintainability using cutting-edge technologies over Full-stack area.
 - Experience of integrating Hybrid Search Engine and Vector Embedding, Vector Database, OpenAI...
-- Contribute and Customization of AI Based Open Sources like `cody`, `memfree`, `typebot`
+- Open Source Contribute and Customization with AI.
 
-- 🔭 I’m currently working in [cdmbase](https://github.com/cdmbase) team which is building Airbnb-like rental application [resortifi](https://resortifi.com/)
-- 👯 I’m integrating AI (gpt, NLP...) to the applications to enhance semantic search capability and personalize user experience.
+- 👯 I’m currently focusing and integrating AI agent (gpt, hybrid-search, chatbot, NLP...) to the rental application [resortifi](https://resortifi.com/) to enhance user experience with semantic search and assistant.
 
 <h3 align="center">Favorite Tech</h3>
 <div align="center">
