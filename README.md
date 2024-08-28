@@ -5,7 +5,7 @@
 - Experience of integrating Hybrid Search Engine and Vector Embedding, Vector Database, OpenAI...
 - Open Source Contribute and Customization with AI.
 
-- 💖 I’m currently focusing and integrating AI agent (gpt, hybrid-search, chatbot, NLP...) to the rental application [resortifi](https://resortifi.com/) to enhance user experience with semantic search and assistant.
+- 💖 I’m currently focusing and integrating AI agent (gpt, claude, hybrid-search, chatbot, NLP...) to the rental application [resortifi](https://resortifi.com/) to enhance user experience with semantic search and assistant.
 
 <h3 align="center">Favorite Tech</h3>
 <div align="center">
@@ -166,7 +166,13 @@
         <img src="./img/openai.png" width="48" height="48" alt="OpenAI" />
       </a>
       <br>OpenAI
-    </td>    
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.anthropic.com/">
+        <img src="./img/anthropic.png" width="48" height="48" alt="Anthropic" />
+      </a>
+      <br>Anthropic
+    </td>
   </tr>
 </table>
 </div>
