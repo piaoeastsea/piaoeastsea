@@ -22,7 +22,13 @@
         <img src="./img/typescript.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>Typescript
-    </td> 
+    </td>
+    <td align="center" width="96">
+      <a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/">
+        <img src="./img/ecmascript.png" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>ECMAScript
+    </td>
     <td align="center" width="96">
       <a href="https://nodejs.org/en">
         <img src="./img/nodejs.svg" width="48" height="48" alt="NodeJS" />
@@ -36,43 +42,37 @@
       <br>MongoDB
     </td>
     <td align="center" width="96">
-      <a href="https://expressjs.com/">
-        <img src="./img/expressjs.svg" width="48" height="48" alt="ExpressJS" />
-      </a>
-      <br>ExpressJS
-    </td>
-    <td align="center" width="96">
       <a href="https://react.dev/">
         <img src="./img/react.svg" width="48" height="48" alt="React" />
       </a>
       <br>React
     </td>
     <td align="center" width="96">
-      <a href="https://redux.js.org/">
-        <img src="./img/redux.svg" width="48" height="48" alt="Redux" />
+      <a href="https://vitejs.dev/">
+        <img src="./img/vite.svg" width="48" height="48" alt="ViteJS" />
       </a>
-      <br>Redux
-    </td>      
+      <br>Vite
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <a href="https://nextjs.org/">
-        <img src="./img/nextjs.svg" width="48" height="48" alt="NextJS" />
+      <a href="https://webpack.js.org/">
+        <img src="./img/webpack.png" width="48" height="48" alt="Webpack" />
       </a>
-      <br>NextJS
-    </td>  
-    <td align="center" width="96">
-      <a href="https://remix.run/">
-        <img src="./img/remix.svg" width="48" height="48" alt="Remix" />
-      </a>
-      <br>Remix
+      <br>Webpack
     </td>
     <td align="center" width="96">
-      <a href="https://graphql.org/">
-        <img src="./img/graphql.svg" width="48" height="48" alt="GraphQL" />
+      <a href="https://eslint.org/">
+        <img src="./img/eslint.png" width="48" height="48" alt="ESLint" />
       </a>
-      <br>GraphQL
-    </td>    
+      <br>ESLint
+    </td>
+    <td align="center" width="96">
+      <a href="https://jestjs.io/">
+        <img src="./img/jest.png" width="48" height="48" alt="Jest" />
+      </a>
+      <br>Jest
+    </td>
     <td align="center" width="96">
       <a href="https://tailwindcss.com/">
         <img src="./img/tailwindcss.svg" width="48" height="48" alt="TailwindCSS" />
@@ -86,17 +86,17 @@
       <br>ChakraUI
     </td>
     <td align="center" width="96">
-      <a href="https://vitejs.dev/">
-        <img src="./img/vite.svg" width="48" height="48" alt="ViteJS" />
+      <a href="https://graphql.org/">
+        <img src="./img/graphql.svg" width="48" height="48" alt="GraphQL" />
       </a>
-      <br>Vite
+      <br>GraphQL
     </td>
     <td align="center" width="96">
-      <a href="https://jestjs.io/">
-        <img src="./img/jest.png" width="48" height="48" alt="Jest" />
+      <a href="https://www.apollographql.com/">
+        <img src="./img/apollo.png" width="48" height="48" alt="ApolloGraphQL" />
       </a>
-      <br>Jest
-    </td>    
+      <br>Apollo
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
