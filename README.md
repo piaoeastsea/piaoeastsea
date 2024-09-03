@@ -1,9 +1,9 @@
-### Full-stack Engineer with AI & OpenSource Contribute 👋
+### Full-stack Engineer with AI 👋
 
 - Web & Hybrid Application Developer using MERN stack, GraphQL...
-- Modern Architecture Based development and maintainability using cutting-edge technologies over Full-stack area.
-- Experience of integrating Hybrid Search Engine and Vector Embedding, Vector Database, OpenAI...
-- Open Source Contribute and Customization with AI.
+- Modern Architecture Design using cutting-edge technologies through overall Node.js, NPM, Github... Ecosystem.
+- Experience of integrating Hybrid Search Engine and Vector Embedding, Vector Database, OpenAI, Anthropic...
+- Open Source Contribute and Customization.
 
 - 💖 I’m currently focusing and integrating AI agent (gpt, claude, hybrid-search, chatbot, NLP...) to the rental application [resortifi](https://resortifi.com/) to enhance user experience with semantic search and assistant.
 
