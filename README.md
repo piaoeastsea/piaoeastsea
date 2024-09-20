@@ -173,6 +173,12 @@
       </a>
       <br>Anthropic
     </td>
+    <td align="center" width="96">
+      <a href="https://code.visualstudio.com/api">
+        <img src="./img/vscode-extension.png" width="48" height="48" alt="VSCode Extension" />
+      </a>
+      <br>AI Plugin
+    </td>
   </tr>
 </table>
 </div>
