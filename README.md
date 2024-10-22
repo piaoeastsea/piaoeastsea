@@ -1,11 +1,11 @@
 ### Full-stack Engineer with AI 👋
 
 - Web & Hybrid Application Developer using MERN stack, GraphQL...
-- Modern Architecture Design using advanced technologies and ecosystem of Node.js, NPM, Github...
-- Open Source Mining, Customization and Contribution.
+- Modern Architecture Design in advanced technologies on ecosystem of Node.js, NPM, Github...
+- Open Source Research, Customization and Contribution.
 - Experience of integrating Hybrid Search Engine [memfree](https://www.memfree.me/) (Vector Embedding, Vector Database, 3rd party Search Engine API)
-- Experience of integrating OpenAI (gpt), Anthropic (claude) with NLP, Prompt Engineering in Code Copilot development.
-- 💖 I’m currently focusing to integrate AI agent (Chatbot, Search Assistant) to the rental application [resortifi](https://resortifi.com/) to improve user experiences of semantic search and AI assistant.
+- Experience of integrating OpenAI (gpt), Anthropic (claude) with NLP, Prompt Engineering.
+- 💖 I’m currently focusing to integrate AI agent (Chatbot, Search Assistant, Code Copilot) to the rental application [resortifi](https://resortifi.com/)
 
 <h3 align="center">Favorite Tech</h3>
 <div align="center">
