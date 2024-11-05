@@ -147,7 +147,7 @@
       <a href="https://www.mongodb.com/products/platform/atlas-vector-search">
         <img src="./img/vector-search.png" width="48" height="48" alt="Vector Search" />
       </a>
-      <br>Vector Search
+      <br>Semantic Search
     </td>        
     <td align="center" width="96">
       <a href="https://github.com/axa-group/nlp.js">
