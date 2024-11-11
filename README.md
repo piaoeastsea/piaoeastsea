@@ -5,7 +5,7 @@
 - Open Source Research, Customization and Contribution.
 - Experience of integrating Hybrid Search Engine [memfree](https://www.memfree.me/) (Vector Embedding, Vector Database, 3rd party Search Engine API)
 - Experience of integrating OpenAI (gpt), Anthropic (claude) with NLP, Prompt Engineering.
-- 💖 I’m currently focusing to integrate AI agent (Chatbot, Search Assistant, Code Copilot) to the existing application [resortifi](https://resortifi.com/)
+- 💖 I’m currently focusing to integrate AI application like Chatbot, Search Assistant, Code Copilot...
 
 <h3 align="center">Favorite Tech</h3>
 <div align="center">
