@@ -1,11 +1,11 @@
-### Full-stack Engineer with AI 👋
+### Full-stack Engineer Specializing in AI Solutions 👋
 
-💖 Full-stack Web & Hybrid Application Developer specializing in the MERN stack, GraphQL, and modern architecture design.
-📦 Proficient in Node.js, npm, GitHub, and the broader open-source ecosystem for scalable, high-performance applications.
-💡 Actively engaged in open-source research, customization, and contributions to enhance tools and frameworks.
-🌟 Skilled in leveraging OpenAI (GPT) and Anthropic (Claude) with Natural Language Processing (NLP) and Prompt Engineering for intelligent applications.
+- 💖 Full-stack Web & Hybrid Application Developer specializing in the MERN stack, GraphQL, and modern architecture design.
+- 📦 Proficient in Node.js, npm, GitHub, and the broader open-source ecosystem for scalable, high-performance applications.
+- 💡 Actively engaged in open-source research, customization, and contributions to enhance tools and frameworks.
+- 🌟 Skilled in leveraging OpenAI (GPT) and Anthropic (Claude) with Natural Language Processing (NLP) and Prompt Engineering for intelligent applications.
 
-🚀 Currently focused on integrating AI-driven features such as Chatbots, Search Assistants, and Code Copilots to enhance user experiences and productivity.
+- 🚀 Currently focused on integrating AI-driven features such as Chatbots, Search Assistants, and Code Copilots to enhance user experiences and productivity.
 
 <h3 align="center">Favorite Tech</h3>
 <div align="center">
