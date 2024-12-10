@@ -136,10 +136,10 @@
       <br>JsonEngine
     </td>
     <td align="center" width="96">
-      <a href="https://www.npmjs.com/package/rrule">
-        <img src="./img/rrule.svg" width="48" height="48" alt="RRule" />
+      <a href="https://retejs.org/">
+        <img src="./img/rete.svg" width="48" height="48" alt="ReteJS" />
       </a>
-      <br>RRule
+      <br>Rete.js
     </td>    
   </tr>
   <tr>
