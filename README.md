@@ -124,8 +124,8 @@
       <br>AJV
     </td>
     <td align="center" width="96">
-      <a href="https://www.npmjs.com/package/xstate">
-        <img src="./img/state-machine.svg" width="48" height="48" alt="State Machine" />
+      <a href="https://stately.ai/docs">
+        <img src="./img/statelyai.png" width="48" height="48" alt="State Machine" />
       </a>
       <br>StateMachine
     </td>
