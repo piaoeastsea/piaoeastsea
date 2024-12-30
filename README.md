@@ -1,6 +1,6 @@
 ### Full-stack Engineer Specializing in AI Solutions 👋
 
-- 💖 Full-stack Web & Hybrid Application Developer specializing in the MERN stack, GraphQL, and modern architecture design.
+- 💖 Full-stack Web & Hybrid Application Developer specializing in the MERN stack, GraphQL(with Apollo), and modern architecture design.
 - 📦 Proficient in Node.js, npm, GitHub, and the broader open-source ecosystem for scalable, high-performance applications.
 - 💡 Actively engaged in open-source research, customization, and contributions to enhance tools and frameworks.
 - 🌟 Skilled in leveraging OpenAI, Anthropic with Natural Language Processing (NLP) and Prompt Engineering for intelligent applications.
