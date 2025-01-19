@@ -127,7 +127,7 @@
       <a href="https://stately.ai/docs">
         <img src="./img/statelyai.png" width="48" height="48" alt="State Machine" />
       </a>
-      <br>StateMachine
+      <br>XState
     </td>
     <td align="center" width="96">
       <a href="https://www.npmjs.com/package/json-rules-engine">
