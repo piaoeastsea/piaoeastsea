@@ -130,10 +130,10 @@
       <br>XState
     </td>
     <td align="center" width="96">
-      <a href="https://www.npmjs.com/package/json-rules-engine">
-        <img src="./img/json-engine.svg" width="48" height="48" alt="JsonEngine" />
+      <a href="https://rxjs.dev/">
+        <img src="./img/rxjs.png" width="48" height="48" alt="RxJS" />
       </a>
-      <br>JsonEngine
+      <br>RxJS
     </td>
     <td align="center" width="96">
       <a href="https://retejs.org/">
