@@ -5,7 +5,7 @@
 - 💡 Actively engaged in open-source research, customization, and contributions to enhance tools and frameworks.
 - 🌟 Skilled in leveraging OpenAI, Anthropic with Natural Language Processing (NLP) and Prompt Engineering for intelligent applications.
 
-- 🚀 Currently I am focusing to integrating AI-driven features such as Chatbot, Search Assistant, Copilot and Craftgen Tool to enhance user experiences and productivity.
+- 🚀 Currently I am focusing to integrating AI-driven features such as Chatbot, Search Assistant, Copilot and Craftgen to enhance user experiences and productivity.
 
 <h3 align="center">Favorite Tech</h3>
 <div align="center">
