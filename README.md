@@ -3,7 +3,7 @@
 - 💖 Full-stack Engineer specializing in the MERN stack, GraphQL(Apollo) with the modern architecture design.
 - 📦 Proficient in Node.js, npm, GitHub, and the broader open-source ecosystem for scalable, high-performance applications.
 - 💡 Actively engaged in open-source research, customization, and contributions to enhance tools and frameworks.
-- 🌟 Skilled in leveraging OpenAI, Ollama with Natural Language Processing (NLP) and Prompt Engineering for AI-based applications.
+- 🌟 Skilled in leveraging OpenAI, Ollama with Prompt Engineering for AI-based applications.
 
 - 🚀 Currently I am trying to integrate AI-driven features such as Chatbot, Search Assistant, Copilot and Craftgen to enhance user experiences and productivity.
 
